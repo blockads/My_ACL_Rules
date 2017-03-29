@@ -75,6 +75,11 @@
 # duobao999
 (^|\.)duobao999\.com$
 
+# 讯飞语音间谍输入法
+(^|\.)voicecloud\.cn$
+
+#cm间谍空间
+(^|\.)cmcm\.com$
 # 17173
 (^|\.)cvda\.17173\.com$
 (^|\.)imgapp\.yeyou\.com$
